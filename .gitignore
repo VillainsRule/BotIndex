@@ -1,0 +1,6 @@
+# bundled node contents
+node_modules/
+bun.lockb
+
+# mac config
+**/.DS_Store

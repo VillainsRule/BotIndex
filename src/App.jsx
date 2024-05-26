@@ -13,7 +13,8 @@ export default function Main() {
             'Owner': 'acai',
             'State': 'Permanently Inactive',
             'Note': 'Renamed to @acai to reserve name.',
-            'Functionality': 'Prioritized moderation, had a few fun games.'
+            'Functionality': 'Prioritized moderation and anti-scamming techniques, had a few fun games.',
+            'Trivia': 'Death paid zastix, owner at the time, 4 chromas for a list of every Blacket user\'s ID. He DMed it to acai to improve bot security, when acai accidentally screenshared this list while in a call with Xotic, causing Death to be banned for three months and miss out on Tropical Triumph 2023.'
         },
         'BSFC': {
             'ID': '9999999',
@@ -49,10 +50,10 @@ export default function Main() {
         },
         'Tranquility': {
             'ID': '6463853',
-            'Owner': 'Unknown (see note)',
-            'State': 'Inactive account; owner state unknown.',
+            'Owner': 'monkxy',
+            'State': 'Inactive account; owner banned.',
             'Functionality': 'Unknown',
-            'Explanation': 'Almost nothing is known about this bot except for the fact that it holds a Verified Bot badge. I failed to find any good research indicating any information regarding this bot, only a horde of messages potentially tied to the user @s that were unclear as to meaning. The functionality is also unknown, and there are almost no mentions or recollections of this bot being in chat across old members. It\'s possible this "s" user owned it, or possibly monkxy, juding from message contents. It has not been online since 10/23, so it is deemed "inactive", but owner state is unknown.'
+            'Explanation': 'Almost nothing is known about this bot except for the fact that it holds a Verified Bot badge and that it was owned by monkxy. I failed to find any good research indicating any information regarding this bot, only a horde of messages potentially tied to the user @s that were unclear as to meaning. The functionality is also unknown, and there are almost no mentions or recollections of this bot being in chat across old members.'
         },
         'Spotify': {
             'ID': '5619683',

@@ -5,16 +5,24 @@ export default function Main() {
         'Confidence': {
             'ID': '6545821',
             'Owner': 'Death',
-            'State': 'Inactive until Rewrite',
-            'Functionality': 'Everything! Best bot (no bias).'
+            'State': 'Inactive until Rewrite.',
+            'Functionality': 'This handled almost everything in the game, from games to a full-on currency.'
         },
         'Reliance': {
             'ID': '6793896',
             'Owner': 'acai',
-            'State': 'Permanently Inactive',
-            'Note': 'Renamed to @acai to reserve name.',
+            'State': 'Permanently Inactive; project likely dropped.',
+            'Note': 'Renamed to @acai to reserve name. / One of the few bots Death never tried to defile.',
             'Functionality': 'Prioritized moderation and anti-scamming techniques, had a few fun games.',
             'Trivia': 'Death paid zastix, owner at the time, 4 chromas for a list of every Blacket user\'s ID. He DMed it to acai to improve bot security, when acai accidentally screenshared this list while in a call with Xotic, causing Death to be banned for three months and miss out on Tropical Triumph 2023.'
+        },
+        'd': {
+            'Alt Name': 'dbot',
+            'ID': '4831842',
+            'Owner': 'qaiik',
+            'State': 'Inactive bot; abandoned project.',
+            'Functionality': 'Handled a few things that were not present in Confidence.',
+            'Note': 'One of the few bots Death didn\'t try to denounce. Well, he did - at the start. Then he and qaiik finally got to an agreement, making dbot like Confidence\'s brother.'
         },
         'BSFC': {
             'ID': '9999999',
@@ -23,7 +31,7 @@ export default function Main() {
             'Functionality': 'Personal bot for the Ben Stewart Fan Club clan.'
         },
         'Blu': {
-            'Alt Names': 'SpookyBlu',
+            'Alt Name': 'SpookyBlu',
             'ID': '9960099',
             'Owner': 'monkxy / pablo',
             'State': 'Main developer banned; inactive forever.',
